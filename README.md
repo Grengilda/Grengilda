@@ -12,13 +12,7 @@ I am an aspiring Python Backend Developer. Currently, I'm actively learning, bui
 
 
 
-### GitHub Stats
 
-<!-- Карточки со статистикой, как у Anurag, настроенные под ваш никнейм -->
-<p align="left">
-  <img src="https://vercel.app" alt="Victoria's GitHub stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
-</p>
 
 ### 📫 Connect with me:
 * Feel free to explore my repositories right here on GitHub.
