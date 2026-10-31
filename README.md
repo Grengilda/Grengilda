@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет! Я Виктория 👋
 
-<!--
-**Grengilda/Grengilda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий бэкэнд-разработчик на Python. Сейчас активно прохожу обучение, пишу учебные проекты и развиваю навыки в веб-разработке.
 
-Here are some ideas to get you started:
+### 🛠️ Мой технологический стек и инструменты:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://shields.io)
+![Django](https://shields.io)
+![MySQL](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Bootstrap](https://shields.io)
+
+### 📚 Сейчас я изучаю и практикую:
+- Разработку архитектуры веб-приложений на Django.
+- Проектирование и выполнение запросов к базам данных.
+- Работу с системой контроля версий Git.
+
+### 📫 Как со мной связаться:
+- Вы можете найти мои актуальные учебные репозитории прямо здесь, в моем профиле GitHub.
