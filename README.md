@@ -4,11 +4,12 @@
 
 ### 🛠️ Мой технологический стек и инструменты:
 
-![Python](https://shields.io)
-![Django](https://shields.io)
-![MySQL](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+![Python](https://shields.io) 
+![Django](https://shields.io) 
+![MySQL](https://shields.io) 
+![Git](https://shields.io) 
+![GitHub](https://shields.io) 
+![Bootstrap](https://shields.io)
 ![Bootstrap](https://shields.io)
 
 ### 📚 Сейчас я изучаю и практикую:
