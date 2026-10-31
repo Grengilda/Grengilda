@@ -10,15 +10,7 @@ I am an aspiring Python Backend Developer. Currently, I'm actively learning, bui
 * 🗂️ **Version Control:** Making clean, granular Git commits step-by-step
 * 🎨 **Frontend basics:** Using Bootstrap for styling my web applications
 
-### Technologies & Tools
 
-<p align="left">
-  <img src="https://githubusercontent.com" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="django" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="bootstrap" width="40" height="40"/>
-</p>
 
 ### GitHub Stats
 
