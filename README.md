@@ -1,18 +1,18 @@
-# Привет! Я Виктория 👋
+# Hi there! I'm Victoria 👋
 
-Я начинающий бэкэнд-разработчик на Python. Сейчас активно прохожу обучение, пишу учебные проекты и развиваю навыки в веб-разработке.
+I am an aspiring Python Backend Developer. Currently, I'm actively learning, building educational web applications, and sharpening my skills in web development.
 
-### 🛠️ Мой технологический стек и инструменты:
+### 🛠️ Tech Stack & Tools:
 
 * **Backend:** Python (Django)
-* **Базы данных:** MySQL / SQL
+* **Databases:** MySQL / SQL
 * **Frontend:** Bootstrap, HTML5, CSS3
-* **Инструменты & VCS:** Git, GitHub
+* **Tools & VCS:** Git, GitHub
 
-### 📚 Сейчас я изучаю и практикую:
-* Разработку архитектуры веб-приложений на Django.
-* Проектирование и выполнение запросов к базам данных.
-* Работу с системой контроля версий Git.
+### 📚 Current Focus & Learning:
+* Developing web application architecture using Django.
+* Designing databases and writing structured SQL queries.
+* Practicing clean version control with Git.
 
-### 📫 Как со мной связаться:
-* Вы можете найти мои актуальные учебные репозитории прямо здесь, в моем профиле GitHub.
+### 📫 Connect with me:
+* Feel free to explore my repositories right here on GitHub.
